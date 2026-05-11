@@ -32,7 +32,7 @@ A complete toolkit for Claude Code.
 
 1. Run `/plugins` in Claude Code
 2. Select **Marketplaces** > **Add Marketplace**
-3. Enter `elb-pr/claudikins-marketplace`
+3. Enter `kellenff/claudikins-marketplace`
 4. Select which plugins you want to install
 
 ## Plugin Ecosystem
@@ -130,9 +130,9 @@ Choose your path based on what you want to accomplish.
 
 ## Kernel
 
-![claudikins-kernel](https://raw.githubusercontent.com/elb-pr/claudikins-kernel/main/assets/banner.png)
+![claudikins-kernel](https://raw.githubusercontent.com/kellenff/claudikins-kernel/main/assets/banner.png)
 
-**Repository:** [claudikins-kernel](https://github.com/elb-pr/claudikins-kernel)
+**Repository:** [claudikins-kernel](https://github.com/kellenff/claudikins-kernel)
 
 Four commands that enforce quality through gates:
 
@@ -149,9 +149,9 @@ Cross-command gates prevent skipping steps. State persists to JSON for session r
 
 ## Tool Executor
 
-![claudikins-tool-executor](https://raw.githubusercontent.com/elb-pr/claudikins-tool-executor/main/assets/banner.png)
+![claudikins-tool-executor](https://raw.githubusercontent.com/kellenff/claudikins-tool-executor/main/assets/banner.png)
 
-**Repository:** [claudikins-tool-executor](https://github.com/elb-pr/claudikins-tool-executor)
+**Repository:** [claudikins-tool-executor](https://github.com/kellenff/claudikins-tool-executor)
 
 MCP tools eat context. A typical setup with 5-6 servers burns 25% of your context window just listing available tools.
 
@@ -169,9 +169,9 @@ Context usage drops to 0.5%. Large responses auto-save to workspace. You get the
 
 ## GRFP
 
-![claudikins-grfp](https://raw.githubusercontent.com/elb-pr/claudikins-github-readme-for-perfectionists/main/assets/banner.png)
+![claudikins-grfp](https://raw.githubusercontent.com/kellenff/claudikins-github-readme-for-perfectionists/main/assets/banner.png)
 
-**Repository:** [claudikins-grfp](https://github.com/elb-pr/claudikins-github-readme-for-perfectionists)
+**Repository:** [claudikins-grfp](https://github.com/kellenff/claudikins-github-readme-for-perfectionists)
 
 Five phases. Two AIs. One README that reads like a human wrote it.
 
@@ -189,9 +189,9 @@ Claude handles analysis and writing. Gemini runs deep research and creative brai
 
 ## klaus
 
-![claudikins-klaus](https://raw.githubusercontent.com/elb-pr/claudikins-klaus/main/assets/banner.png)
+![claudikins-klaus](https://raw.githubusercontent.com/kellenff/claudikins-klaus/main/assets/banner.png)
 
-**Repository:** [claudikins-klaus](https://github.com/elb-pr/claudikins-klaus)
+**Repository:** [claudikins-klaus](https://github.com/kellenff/claudikins-klaus)
 
 For when you are truly, catastrophically doomed.
 
@@ -207,9 +207,9 @@ The persona is absurd. The methodology is rigorous:
 
 ## ACM
 
-![claudikins-automatic-context-manager](https://raw.githubusercontent.com/elb-pr/claudikins-automatic-context-manager/main/assets/banner.png)
+![claudikins-automatic-context-manager](https://raw.githubusercontent.com/kellenff/claudikins-automatic-context-manager/main/assets/banner.png)
 
-**Repository:** [claudikins-automatic-context-manager](https://github.com/elb-pr/claudikins-automatic-context-manager)
+**Repository:** [claudikins-automatic-context-manager](https://github.com/kellenff/claudikins-automatic-context-manager)
 
 Context fills up. Work gets lost. Sessions end mid-task.
 
