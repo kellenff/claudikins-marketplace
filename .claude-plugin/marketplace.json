@@ -16,7 +16,7 @@
         "url": "https://github.com/kellenff/claudikins-kernel.git"
       },
       "description": "Structured workflow plugin enforcing plan → execute → verify → ship with isolated agents, mandatory checkpoints, and state persistence.",
-      "version": "1.2.0"
+      "version": "1.4.0"
     },
     {
       "name": "claudikins-tool-executor",
@@ -25,7 +25,7 @@
         "url": "https://github.com/kellenff/claudikins-tool-executor.git"
       },
       "description": "Meta-MCP server consolidating multiple MCPs into 3 context-efficient tools with semantic search. Reduces token usage from ~25% to 0.5% of context window.",
-      "version": "1.0.1"
+      "version": "1.1.0"
     },
     {
       "name": "claudikins-grfp",
@@ -34,7 +34,7 @@
         "url": "https://github.com/kellenff/claudikins-github-readme-for-perfectionists.git"
       },
       "description": "High-quality README creation through dual-AI collaborative analysis. Claude and Gemini analyse your codebase in parallel, research exemplar READMEs, then co-author documentation section by section.",
-      "version": "1.1.1"
+      "version": "1.2.0"
     },
     {
       "name": "claudikins-klaus",
@@ -43,7 +43,7 @@
         "url": "https://github.com/kellenff/claudikins-klaus.git"
       },
       "description": "Debugging assistance through Klaus, a dramatically irritated AI persona with Eastern European flair who fixes your code while playing imaginary Pong against you.",
-      "version": "1.0.1"
+      "version": "1.1.0"
     },
     {
       "name": "claudikins-automatic-context-manager",
@@ -52,7 +52,7 @@
         "url": "https://github.com/kellenff/claudikins-automatic-context-manager.git"
       },
       "description": "Automatic context handoff for Claude Code. When context hits 60%, generates a summary and continues in a fresh session. (Beta - report bugs)",
-      "version": "1.1.2-beta"
+      "version": "1.2.0-beta"
     }
   ]
 }
