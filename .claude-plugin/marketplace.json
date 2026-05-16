@@ -49,7 +49,7 @@
       "name": "claudikins-automatic-context-manager",
       "source": {
         "source": "url",
-        "url": "https://github.com/elb-pr/claudikins-automatic-context-manager.git"
+        "url": "https://github.com/kellenff/claudikins-automatic-context-manager.git"
       },
       "description": "Automatic context handoff for Claude Code. When context hits 60%, generates a summary and continues in a fresh session. (Beta - report bugs)",
       "version": "1.1.3"
