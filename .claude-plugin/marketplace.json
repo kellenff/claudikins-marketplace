@@ -25,7 +25,7 @@
         "url": "https://github.com/kellenff/claudikins-tool-executor.git"
       },
       "description": "Meta-MCP server consolidating multiple MCPs into 3 context-efficient tools with semantic search. Reduces token usage from ~25% to 0.5% of context window.",
-      "version": "1.1.1"
+      "version": "1.1.2"
     },
     {
       "name": "claudikins-grfp",
