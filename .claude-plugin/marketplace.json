@@ -43,7 +43,7 @@
         "url": "https://github.com/kellenff/claudikins-klaus.git"
       },
       "description": "Debugging assistance through Klaus, a dramatically irritated AI persona with Eastern European flair who fixes your code while playing imaginary Pong against you.",
-      "version": "1.1.0"
+      "version": "1.2.0"
     },
     {
       "name": "claudikins-automatic-context-manager",
