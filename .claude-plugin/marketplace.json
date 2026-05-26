@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Claude Code plugins by Claudikins",
-    "version": "1.4.0"
+    "version": "2.0.0"
   },
   "plugins": [
     {
@@ -34,7 +34,7 @@
         "url": "https://github.com/kellenff/claudikins-github-readme-for-perfectionists.git"
       },
       "description": "High-quality README creation through dual-AI collaborative analysis. Claude and Gemini analyse your codebase in parallel, research exemplar READMEs, then co-author documentation section by section.",
-      "version": "1.2.0"
+      "version": "2.0.0"
     },
     {
       "name": "claudikins-klaus",
